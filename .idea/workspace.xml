@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0956a653-3f4b-4661-bab6-fa2ee46e8d10" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HelloThere.java" afterDir="false" />
+    <list default="true" id="0956a653-3f4b-4661-bab6-fa2ee46e8d10" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Superhero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Greeting.executor": "Run",
+    "Application.HelloThere.executor": "Run",
+    "Application.Superhero.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -78,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721757471736</updated>
-      <workItem from="1721757472776" duration="2550000" />
+      <workItem from="1721757472776" duration="3674000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -104,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721759536411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1721760331965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721760331965</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1721760410418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721760410418</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
